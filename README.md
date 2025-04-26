@@ -70,3 +70,12 @@ x-scrape.py
 
 Follower Count Tracking
 follower.py
+
+
+
+Market Cap and ATH Tracking
+marketkap.py
+
+
+Dashboard (React Frontend)
+
