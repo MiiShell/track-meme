@@ -4,6 +4,14 @@ Solana Meme Coin Tracking Tool
 
 
 idea
+## Technical Specification: Solana Meme Coin Tracking Tool
+
+### 1. Overview
+The tool aggregates and analyzes real-time data for Solana-based meme Coins, providing trading insights through X sentiment analysis, follower tracking, market cap monitoring, and all-time high (ATH) comparisons. It features a web-based dashboard for visualization, automated data collection, and scalable architecture to handle thousands of coins.
+
+### 2. Architecture Diagram
+Below is a high-level architecture diagram outlining the data flow and components:
+
 
 
 [Data Sources]
