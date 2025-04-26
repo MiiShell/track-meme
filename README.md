@@ -66,3 +66,7 @@ Below is a high-level architecture diagram outlining the data flow and component
 
 X Post Scraping and Sentiment Analysis
 x-scrape.py
+
+
+Follower Count Tracking
+follower.py
